@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 00de75c2e4057fa449db570990d767aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 845316358149187528
+    second: Alphe_0
+  - first:
+      213: 4174454388470472899
+    second: Alphe_1
+  - first:
+      213: -7682683868819065699
+    second: Alphe_2
+  - first:
+      213: -6379367562765122903
+    second: Alphe_3
+  - first:
+      213: -524121518104836500
+    second: Alphe_4
+  - first:
+      213: -3241658241434966201
+    second: Alphe_5
+  - first:
+      213: -7919242422023572356
+    second: Alphe_6
+  - first:
+      213: 2369008660353600908
+    second: Alphe_7
+  - first:
+      213: -1874537226855294687
+    second: Alphe_8
+  - first:
+      213: 3358484995400029297
+    second: Alphe_9
+  - first:
+      213: 8856694403500293151
+    second: Alphe_10
+  - first:
+      213: -1877846998008643487
+    second: Alphe_11
+  - first:
+      213: 6500103425870232346
+    second: Alphe_12
+  - first:
+      213: -3381571303628989904
+    second: Alphe_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alphe_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6476
+        width: 765
+        height: 503
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b426f82e9717040bf4467b58d5cb90
+      internalID: 845316358149187528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_1
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 6481
+        width: 766
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd67aac975fcb04fade6f3cd26883fd
+      internalID: 4174454388470472899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_2
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 6474
+        width: 789
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29768728fff616c4593177254322ed46
+      internalID: -7682683868819065699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_3
+      rect:
+        serializedVersion: 2
+        x: 2451
+        y: 6490
+        width: 798
+        height: 477
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce68217e733835944a8ef1f3bf742ccc
+      internalID: -6379367562765122903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_4
+      rect:
+        serializedVersion: 2
+        x: 3294
+        y: 6495
+        width: 812
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c8d4b616f3ba8429c82014fe199cee
+      internalID: -524121518104836500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_5
+      rect:
+        serializedVersion: 2
+        x: 4204
+        y: 6497
+        width: 812
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6697b5fe3b7677f4da9d7c86abf713d7
+      internalID: -3241658241434966201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_6
+      rect:
+        serializedVersion: 2
+        x: 5162
+        y: 6517
+        width: 827
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50ba866a3eeb8f40b7bbc5bc3145d8e
+      internalID: -7919242422023572356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_7
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 6515
+        width: 831
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262633b37cc1fea43be850bbb5269d63
+      internalID: 2369008660353600908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_8
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 5834
+        width: 719
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbcb0c6d6b52ce4e91a78678108983e
+      internalID: -1874537226855294687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_9
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 5840
+        width: 699
+        height: 492
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360b407bf43a9cc42896d0471c32d406
+      internalID: 3358484995400029297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_10
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 5837
+        width: 642
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2c8f0a4d569214c8c7dcf5d7407cae
+      internalID: 8856694403500293151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_11
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 5885
+        width: 735
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa8a038391494e46bdd93d91affd0f3
+      internalID: -1877846998008643487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_12
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 5880
+        width: 687
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f15c7520f1be504a9955597181c3dab
+      internalID: 6500103425870232346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alphe_13
+      rect:
+        serializedVersion: 2
+        x: 3981
+        y: 5880
+        width: 678
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d264fa3ddf34a9f4aa00c8a399bdf197
+      internalID: -3381571303628989904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

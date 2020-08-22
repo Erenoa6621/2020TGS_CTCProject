@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: 3398f53cd3d2a1048b41dbe216d174e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5071720313379901989
+    second: Bonsen_0
+  - first:
+      213: 8797020330620230454
+    second: Bonsen_1
+  - first:
+      213: -3877431002196486199
+    second: Bonsen_2
+  - first:
+      213: 7575515190073409135
+    second: Bonsen_3
+  - first:
+      213: 3762879337976827800
+    second: Bonsen_4
+  - first:
+      213: -1785835485488703590
+    second: Bonsen_5
+  - first:
+      213: -6673187096026321022
+    second: Bonsen_6
+  - first:
+      213: 7567203569379531334
+    second: Bonsen_7
+  - first:
+      213: 7081339866166300564
+    second: Bonsen_8
+  - first:
+      213: 7791170467437054429
+    second: Bonsen_9
+  - first:
+      213: -7784337845533657300
+    second: Bonsen_10
+  - first:
+      213: 4987993220245493657
+    second: Bonsen_11
+  - first:
+      213: -8812643655297936774
+    second: Bonsen_12
+  - first:
+      213: -5714310815365942843
+    second: Bonsen_13
+  - first:
+      213: 3095500080716280924
+    second: Bonsen_14
+  - first:
+      213: 4538332438333686962
+    second: Bonsen_15
+  - first:
+      213: 280122657976168479
+    second: Bonsen_16
+  - first:
+      213: 7322986513532603146
+    second: Bonsen_17
+  - first:
+      213: 1602722730199705373
+    second: Bonsen_18
+  - first:
+      213: 5795351137495759941
+    second: Bonsen_19
+  - first:
+      213: -5440168692025860880
+    second: Bonsen_20
+  - first:
+      213: -1791057283550518287
+    second: Bonsen_21
+  - first:
+      213: -5980374927527863281
+    second: Bonsen_22
+  - first:
+      213: -6867978400773842688
+    second: Bonsen_23
+  - first:
+      213: -2809972667087487738
+    second: Bonsen_24
+  - first:
+      213: -6985865545294384091
+    second: Bonsen_25
+  - first:
+      213: -2684801317983153869
+    second: Bonsen_26
+  - first:
+      213: 725017395460023503
+    second: Bonsen_27
+  - first:
+      213: -2949755963960796277
+    second: Bonsen_28
+  - first:
+      213: 7577822618576938756
+    second: Bonsen_29
+  - first:
+      213: 6684859033599000617
+    second: Bonsen_30
+  - first:
+      213: 1519899361181839704
+    second: Bonsen_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bonsen_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2890
+        width: 853
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8041eba75cf0af4aa1a3a28fe719f82
+      internalID: -5071720313379901989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_1
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 2887
+        width: 827
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c825377990fc58242951adc46a175485
+      internalID: 8797020330620230454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_2
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 2880
+        width: 824
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78437965719a3f43bdbb912e99aaae1
+      internalID: -3877431002196486199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_3
+      rect:
+        serializedVersion: 2
+        x: 2741
+        y: 2878
+        width: 793
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf9876fe05c5a7459faa962c6493dbb
+      internalID: 7575515190073409135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_4
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 2837
+        width: 780
+        height: 368
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7432b0a61f8ad4f8c93c9a6c46bef6
+      internalID: 3762879337976827800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_5
+      rect:
+        serializedVersion: 2
+        x: 4461
+        y: 2817
+        width: 750
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b868194811f6f4bb585f2a029aba78
+      internalID: -1785835485488703590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_6
+      rect:
+        serializedVersion: 2
+        x: 5242
+        y: 2800
+        width: 740
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9ecb73e448bd34d95de52d69f8e19b
+      internalID: -6673187096026321022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2412
+        width: 846
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c710b43ab15264eaa18bba92bac84c
+      internalID: 7567203569379531334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2402
+        width: 834
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f751183c24371a498808f134129d5ce
+      internalID: 7081339866166300564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_9
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 2415
+        width: 813
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0f00b26cca0b514cb8a6f9bdbb3bb4d
+      internalID: 7791170467437054429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_10
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 2412
+        width: 800
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c6ae54789e3864185eb85763dc9232
+      internalID: -7784337845533657300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_11
+      rect:
+        serializedVersion: 2
+        x: 3714
+        y: 2402
+        width: 782
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffc2ba1286b219489dbbc4d2a23178f
+      internalID: 4987993220245493657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_12
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 2405
+        width: 757
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8ccc3ec007bf146a9a547e112fba47
+      internalID: -8812643655297936774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_13
+      rect:
+        serializedVersion: 2
+        x: 5341
+        y: 2422
+        width: 853
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8302fb4286e4364084e168c5d023a7d
+      internalID: -5714310815365942843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_14
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1529
+        width: 850
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e1318ccc647e464599a9a7d2148248f
+      internalID: 3095500080716280924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_15
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1476
+        width: 846
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5e5a8888843f7448a7e7c8f673c769
+      internalID: 4538332438333686962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_16
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1390
+        width: 959
+        height: 723
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d30413008672a44f8df08015e9522c3
+      internalID: 280122657976168479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_17
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 1254
+        width: 1018
+        height: 849
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b581d7edaaaf7e7448e24ec49ae684c6
+      internalID: 7322986513532603146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_19
+      rect:
+        serializedVersion: 2
+        x: 4203
+        y: 1238
+        width: 1081
+        height: 1024
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b570665b610cdf4a93f56ec26ec1401
+      internalID: 5795351137495759941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_20
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 168
+        width: 1125
+        height: 1069
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95942425388e7254287093c43ed81f8f
+      internalID: -5440168692025860880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_21
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 168
+        width: 1125
+        height: 1069
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac07f9493a4fb644da2362fad5aaa26a
+      internalID: -1791057283550518287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_22
+      rect:
+        serializedVersion: 2
+        x: 2421
+        y: 182
+        width: 1014
+        height: 963
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18321170ac10eea4aa3984b18c7b389a
+      internalID: -5980374927527863281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_23
+      rect:
+        serializedVersion: 2
+        x: 3462
+        y: 186
+        width: 1032
+        height: 964
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710914827803a4b46a90594a7d2c56cb
+      internalID: -6867978400773842688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_25
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 241
+        width: 1013
+        height: 962
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7277abd71a141b4d8f4fad42ec47c4f
+      internalID: -6985865545294384091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bonsen_27
+      rect:
+        serializedVersion: 2
+        x: 5634
+        y: 241
+        width: 998
+        height: 962
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39aec7bdeb415f047889381e7918aa2e
+      internalID: 725017395460023503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

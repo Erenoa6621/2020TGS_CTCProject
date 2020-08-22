@@ -1,0 +1,610 @@
+fileFormatVersion: 2
+guid: cc106cac25e9e974593c558ef69ba0e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -885622723449923645
+    second: Itaroku_0
+  - first:
+      213: 7789851106454629993
+    second: Itaroku_1
+  - first:
+      213: 7379420432046410941
+    second: Itaroku_2
+  - first:
+      213: -555638063719416097
+    second: Itaroku_3
+  - first:
+      213: -1575705218669382464
+    second: Itaroku_4
+  - first:
+      213: -5258360567807875901
+    second: Itaroku_5
+  - first:
+      213: -6379820574067283912
+    second: Itaroku_6
+  - first:
+      213: 4418653009097261086
+    second: Itaroku_7
+  - first:
+      213: -5677834692323965165
+    second: Itaroku_8
+  - first:
+      213: 8443284668692351323
+    second: Itaroku_9
+  - first:
+      213: 4910794510700178957
+    second: Itaroku_10
+  - first:
+      213: -8096131451026621249
+    second: Itaroku_11
+  - first:
+      213: -2597588106302888599
+    second: Itaroku_12
+  - first:
+      213: 9184960511302603712
+    second: Itaroku_13
+  - first:
+      213: 1865786429160600870
+    second: Itaroku_14
+  - first:
+      213: -8533463294526507046
+    second: Itaroku_15
+  - first:
+      213: 4691916857371970564
+    second: Itaroku_17
+  - first:
+      213: 1243659070217920263
+    second: Itaroku_18
+  - first:
+      213: -7213645450889184699
+    second: Itaroku_19
+  - first:
+      213: 2306567875747706954
+    second: Itaroku_20
+  - first:
+      213: -5062711482983778770
+    second: Itaroku_21
+  - first:
+      213: 729030510850388790
+    second: Itaroku_22
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Itaroku_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 797
+        width: 428
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d41b658b4c6ff642ab9ce91e81aec57
+      internalID: -885622723449923645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_1
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 797
+        width: 426
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4d5e19b91d1014c9f863bcdd6e8394
+      internalID: 7789851106454629993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_2
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 795
+        width: 417
+        height: 238
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c58876fd7c89604591df2635807bef9
+      internalID: 7379420432046410941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_3
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 792
+        width: 395
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04175c3f3453acb42b3f65212b39d0ff
+      internalID: -555638063719416097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_4
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 790
+        width: 378
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea79d0313078784bb24b381aa973be1
+      internalID: -1575705218669382464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_5
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 788
+        width: 376
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9f780ca8ea8c9489e4940e9c4f4c62
+      internalID: -5258360567807875901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_6
+      rect:
+        serializedVersion: 2
+        x: 2787
+        y: 788
+        width: 371
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba39afc052dcf4a8785b58dff55537
+      internalID: -6379820574067283912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 499
+        width: 428
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda2e5cfb9af12546b712d88ee111fea
+      internalID: 4418653009097261086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 499
+        width: 425
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f08e93edde203a4a99e36b667eda790
+      internalID: -5677834692323965165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_9
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 485
+        width: 413
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81b0dda19af6ef4b998902ee025a7eb
+      internalID: 8443284668692351323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_10
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 474
+        width: 401
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1231a1b3a9e98c44bab71ce39fec7f51
+      internalID: 4910794510700178957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_11
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 471
+        width: 394
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960856b29d9b8d248adbc0f1e5f277e7
+      internalID: -8096131451026621249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_12
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 467
+        width: 393
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0417851a8ba259945bd33e4df3793422
+      internalID: -2597588106302888599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 215
+        width: 430
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8652271b490dec47bc905e13d4808ad
+      internalID: 9184960511302603712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_14
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 209
+        width: 441
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef9c31c45a32644e9400a69d9a1a4bd
+      internalID: 1865786429160600870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_15
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 82
+        width: 432
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1b509878d801b47ba0d2aeb1fd31d8
+      internalID: -8533463294526507046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_17
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 82
+        width: 426
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d37d7ab194262b4c8fb60432ed102a6
+      internalID: 4691916857371970564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_18
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 44
+        width: 430
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f0e964e3c633c468cf003823be9462
+      internalID: 1243659070217920263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_19
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 54
+        width: 430
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c38cd8137c9c3c43a5d7f558eb77cfa
+      internalID: -7213645450889184699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_20
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 82
+        width: 470
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6a5bc9640b5044c9bbdb3ee5ae0441
+      internalID: 2306567875747706954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Itaroku_21
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 68
+        width: 428
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda5c2f1dfb8a0e46bdfc095a2466895
+      internalID: -5062711482983778770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

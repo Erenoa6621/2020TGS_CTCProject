@@ -1,0 +1,583 @@
+fileFormatVersion: 2
+guid: 063ff00eac32f9a458d20e02f9df47fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7930358867626385939
+    second: Okutan_0
+  - first:
+      213: 224529532429753380
+    second: Okutan_1
+  - first:
+      213: -1510460992375154486
+    second: Okutan_2
+  - first:
+      213: 37235648009845892
+    second: Okutan_3
+  - first:
+      213: -9179182148575583846
+    second: Okutan_4
+  - first:
+      213: -2226476460508037082
+    second: Okutan_5
+  - first:
+      213: 8077056252365091398
+    second: Okutan_6
+  - first:
+      213: -1220152743959437416
+    second: Okutan_7
+  - first:
+      213: 77887277541869760
+    second: Okutan_8
+  - first:
+      213: 2517933714426904159
+    second: Okutan_9
+  - first:
+      213: 8728986823001104639
+    second: Okutan_10
+  - first:
+      213: 1579718567229087736
+    second: Okutan_11
+  - first:
+      213: -42219969373394484
+    second: Okutan_12
+  - first:
+      213: -1232623684914817408
+    second: Okutan_13
+  - first:
+      213: 5575867197064128233
+    second: Okutan_14
+  - first:
+      213: 4292520450766056506
+    second: Okutan_15
+  - first:
+      213: 6803437922620655894
+    second: Okutan_16
+  - first:
+      213: -1094420420131064917
+    second: Okutan_17
+  - first:
+      213: 7571664165884051749
+    second: Okutan_18
+  - first:
+      213: -8860220649494834566
+    second: Okutan_19
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Okutan_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1100
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752de9d73496f224b9b7be62d946beee
+      internalID: 7930358867626385939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1100
+        width: 379
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c759e57aa0fe61469903137df87d3b0
+      internalID: 224529532429753380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_2
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1097
+        width: 398
+        height: 359
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95504a0b3cdf959498edb0167787ab5b
+      internalID: -1510460992375154486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_3
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1097
+        width: 414
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2826abb3b549f8d428ce12c4a1e3c1c7
+      internalID: 37235648009845892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_4
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1093
+        width: 416
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f116a68fa465b4bbf36a5086e3bb6b
+      internalID: -9179182148575583846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_5
+      rect:
+        serializedVersion: 2
+        x: 2276
+        y: 1074
+        width: 487
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffca8307c6dad74ca181baf4591adff
+      internalID: -2226476460508037082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_6
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 1073
+        width: 497
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16748b5235a25c4e80a15ed6829e2c7
+      internalID: 8077056252365091398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_7
+      rect:
+        serializedVersion: 2
+        x: 3372
+        y: 1071
+        width: 503
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408d4c00ab9823c46ad3d5ae8979cf2f
+      internalID: -1220152743959437416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 615
+        width: 322
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c50a88ca9620be4d8d1c1ba5e8db020
+      internalID: 77887277541869760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_9
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 613
+        width: 329
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a336c0474175d92479dc495f4f3cff2d
+      internalID: 2517933714426904159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_10
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 620
+        width: 371
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12b6bf0d9b34a5449cb091d3ffbe23c
+      internalID: 8728986823001104639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_11
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 620
+        width: 370
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3c22f2ca2f01944a80757603d93654
+      internalID: 1579718567229087736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_12
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 620
+        width: 369
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db469ec0c8d6d0646858cc01c892ad64
+      internalID: -42219969373394484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_13
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 620
+        width: 369
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f45183a551d204ea4c3f5a5f4f6a61
+      internalID: -1232623684914817408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_14
+      rect:
+        serializedVersion: 2
+        x: 2575
+        y: 618
+        width: 371
+        height: 418
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9103c354e6740254392be0d375a44756
+      internalID: 5575867197064128233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_15
+      rect:
+        serializedVersion: 2
+        x: 3028
+        y: 618
+        width: 371
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9803d433732cc164c9087d1282764e7f
+      internalID: 4292520450766056506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_16
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 618
+        width: 369
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955da5f61f5d4fb41a6e7b2a9561a154
+      internalID: 6803437922620655894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 136
+        width: 371
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4228556329e8e9f4988d6ba6e5f84358
+      internalID: -1094420420131064917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_18
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 136
+        width: 371
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3680e531234154d893ebb3d603bfc5
+      internalID: 7571664165884051749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Okutan_19
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 136
+        width: 371
+        height: 404
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b96ac68f2bfb4c4ebeb5bad477941a3
+      internalID: -8860220649494834566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
